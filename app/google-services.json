@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922881059132",
+    "project_id": "chatmessengers-26052",
+    "storage_bucket": "chatmessengers-26052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922881059132:android:b67b99220f2ad4bf499639",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922881059132-6ne28eqcb93q3828dei9bn3dfe7gi3um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmessenger",
+            "certificate_hash": "f2be4f60e35eef1862a24b5460528e4851debe60"
+          }
+        },
+        {
+          "client_id": "922881059132-rjp84hgnrft6t8ihpcv555lkq9qeftkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRRTZ_h24gGhhL3dCz4dF9vO992MsoTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922881059132-rjp84hgnrft6t8ihpcv555lkq9qeftkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
