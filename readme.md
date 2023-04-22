@@ -1,8 +1,10 @@
-###    CHAT MESSENGER - Kotlin | Firebase |
+###    CHAT MESSENGER | Firebase | MVVM | FCM | Navigation | Retrofit | Kotlin Coroutines | 
 ####   Developed by Developer Samuel Akram © 2023
 
 
 #### App Demo
+
+![App Demo](./images/DEMO.gif)
 
 
 
