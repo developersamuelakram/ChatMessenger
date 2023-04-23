@@ -1,5 +1,7 @@
 ###    CHAT MESSENGER | Firebase | MVVM | FCM | Navigation | Retrofit | Kotlin Coroutines | 
-####   Developed by Developer Samuel Akram © 2023
+####   Developed by Developer Samuel Akram © 2023 Follow <img src="./images/instagram.png" alt="Instagram Logo" width="75" height="75"> @samuelcodes
+####   Write me at dev.samakram@gmail.com 
+
 
 
 #### App Demo
@@ -21,8 +23,6 @@
 
 
 
-##### I am self taught Android Developer, please feel free to request access to improve this app. 
-##### You can write me at dev.samakram@gmail.com or follow me @samuelcodes on instagram
 
 #### Firebase Structure
 
