@@ -10,7 +10,7 @@
 
 
 
-###### YouTube Tutorial: https://www.youtube.com/playlist?list=PLKETiCsEsH0qcOh5X1AgLHpJVvOLYTcau
+##### YouTube Tutorial: https://www.youtube.com/playlist?list=PLKETiCsEsH0qcOh5X1AgLHpJVvOLYTcau
 
 #### Features 
 1. Firebase Cloud Messaging (FCM) & Retrofit for Push notification
@@ -29,9 +29,14 @@
 Messages:
 ```
 Collection: Messages 
-   Document: chatroomid // generated a unique id by using the sort function to join sender's & receiver's id. The order of the id will remain same regardless of the sender or receiver while adding the document to collection
-      Collection: chats
+   Document: chatroomid 
+       Collection: chats
          Document: Timestamp
+         
+ For Chatroomid: generated a unique id by using the sort function to join sender's & receiver's id. The order of the unique id will remain
+ same regardless of the sender or receiver while adding the document to collection
+       
+         
 ```
 
 
